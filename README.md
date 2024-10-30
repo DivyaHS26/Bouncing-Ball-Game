@@ -33,8 +33,8 @@ Prerequisites
 * Victory Screen: Displays a congratulatory message if you win.
 
 # Built With
-* Python
-* Pygame
+* [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Pygame](https://en.wikipedia.org/wiki/Pygame)
 
 # License
 This project is licensed under the [MIT License.](https://opensource.org/license/MIT)
