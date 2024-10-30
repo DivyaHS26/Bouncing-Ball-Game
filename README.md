@@ -40,4 +40,4 @@ Prerequisites
 This project is licensed under the [MIT License.](https://opensource.org/license/MIT)
 
 # Author
-* Divya HS
+* [Divya HS](https://github.com/DivyaHS26)
